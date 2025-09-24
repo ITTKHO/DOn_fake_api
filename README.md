@@ -131,19 +131,31 @@ lib/
 ```markdown``
 <p>
 <img src="screenshots/login.png" width="260">
+  <br>
 หน้าล็อกอิน GPT Flutter Expert ดีกว่าด้านความสวยงาม
+  <br>
 <img src="screenshots/home.png" width="260">
+  <br>
 หน้า home จะมีสินค้ารวมทั้งหมดอยู่ สามารถค้นหาสินค้าได้ที่ช่องค้นหาด้านบน
 GPT มีความดูเหมือนเป็นระบบ ios และมีปุ่มเพิ่มสินค้าจาก icon ได้เลย ส่วน GROK ออกแบบเหมือนระบบ ANDRIOD 
+  <br>
 <img src="screenshots/category.png" width="260">
+  <br>
 สามารถเลือกหมวดหมู่สินค้าได้
+  <br>
 <img src="screenshots/basket em.png" width="260">
+  <br>
 เมื่อไปดูตะกร้าสินค้าหากไม่ได้เลือกสินค้าใส่ตระกร้าไว้ จะแสดงข้อความ basket empty
+  <br>
 <img src="screenshots/detail prod.png" width="260">
+  <br>
 เมื่อเลือกสินค้าที่ต้องการแล้วเข้าไปดูจะพบรายละเอียดไว้สำหรับสินค้า
+  <br>
 <img src="screenshots/basket with prod.png" width="260">
+  <br>
 เมื่อเลือกสินค้าแล้วกดเพิ่มลงในตะกร้าจะพบสินค้าที่เลือกและพร้อมจ่ายเงิน 
 GPT ทำปุ่มจ่ายเงินให้ แต่ GROK ไม่ทำให้
+  <br>
 </p>
 
 
